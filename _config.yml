@@ -27,7 +27,7 @@ avatar: "/img/vassilis_vassiliades.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  About: ""
   Publications: "publications"
   CV: "VassilisVassiliades_CV.pdf"
   # Contact: "contact"
