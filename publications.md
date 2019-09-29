@@ -5,13 +5,15 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=_Hzp2B0AAAAJ&hl=en), [DBLP](https://dblp.org/pers/hd/v/Vassiliades:Vassilis) and [ResearchGate](https://www.researchgate.net/profile/Vassilis_Vassiliades).
 
+## 2019
+
+<img src="../img/journal-article.png" height="20px">
+Chatzilygeroudis, K., Vassiliades, V., Stulp, F., Calinon, S., and Mouret, J.-B. (2018). A survey on policy search algorithms for learning robot controllers in a handful of trials. IEEE Transactions on Robotics (provisionally accepted). [[Preprint]](https://arxiv.org/abs/1807.02303).
+
 ## 2018
 
 <img src="../img/journal-article.png" height="20px">
 Kondo, D., Silverston, T., Vassiliades, V., Tode, H., and Asami, T. (2018). Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking. IEEE Access. [[Link (open access)]](https://ieeexplore.ieee.org/document/8506363).
-
-<img src="../img/journal-article.png" height="20px">
-Chatzilygeroudis, K., Vassiliades, V., Stulp, F., Calinon, S., and Mouret, J.-B. (2018). A survey on policy search algorithms for learning robot controllers in a handful of trials. Under Review. [[Preprint]](https://arxiv.org/abs/1807.02303).
 
 <img src="../img/journal-article.png" height="20px">
 Chatzilygeroudis, K., Vassiliades, V. and Mouret, J.-B. (2018). Reset-free Trial-and-Error Learning for Robot Damage Recovery. Robotics and Autonomous Systems, 100: 236-250. [[Link (open access)]](https://www.sciencedirect.com/science/article/pii/S0921889017302440).
