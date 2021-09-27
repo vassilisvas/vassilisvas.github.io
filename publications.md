@@ -32,7 +32,7 @@ Ishikura, N., Kondo, D., Iordanov, I., Vassiliades, V. and Tode, H. (2020). Cach
 ## 2019
 
 <img src="../img/journal-article.png" height="20px">
-Chatzilygeroudis, K., Vassiliades, V., Stulp, F., Calinon, S., and Mouret, J.-B. (2018). A survey on policy search algorithms for learning robot controllers in a handful of trials. IEEE Transactions on Robotics, 36(2): 328-347. [[Link (open access)]](https://ieeexplore.ieee.org/document/8944013) [[Preprint]](https://arxiv.org/abs/1807.02303).
+Chatzilygeroudis, K., Vassiliades, V., Stulp, F., Calinon, S., and Mouret, J.-B. (2019). A survey on policy search algorithms for learning robot controllers in a handful of trials. IEEE Transactions on Robotics, 36(2): 328-347. [[Link (open access)]](https://ieeexplore.ieee.org/document/8944013) [[Preprint]](https://arxiv.org/abs/1807.02303).
 
 ## 2018
 
