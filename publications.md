@@ -5,10 +5,34 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=_Hzp2B0AAAAJ&hl=en), [DBLP](https://dblp.org/pers/hd/v/Vassiliades:Vassilis) and [ResearchGate](https://www.researchgate.net/profile/Vassilis_Vassiliades).
 
+## 2021
+
+<img src="../img/journal-article.png" height="20px">
+Ishikura, N., Kondo, D., Vassiliades, V., Iordanov, I., and Tode, H. (2021). DNS Tunneling Detection by Cache-Property-Aware Features. IEEE Transactions on Network and Service Management, 18(2): 1203-1217. [[Link]](https://ieeexplore.ieee.org/abstract/document/9426926/)
+
+<img src="../img/conference-paper.png" height="20px">
+Dionysiou, A., Vassiliades, V. and Athanasopoulos, E. (2021). HoneyGen: Generating Honeywords Using Representation Learning. In ASIA CCS ’21: Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security, 265-279. [[Link]](https://doi.org/10.1145/3433210.3453092)
+
+<img src="../img/book-chapter.png" height="20px">
+Chatzilygeroudis, K., Cully, A., Vassiliades, V., and Mouret, J.-B. (2021). Quality-Diversity Optimization: a novel branch of stochastic optimization. In Black Box Optimization, Machine Learning and No-Free Lunch Theorems, Edited by: Panos Pardalos, Michael Vrahatis, Varvara Rasskazova. 109-135. [[Link]](http://link.springer.com/chapter/10.1007/978-3-030-66515-9_4)
+
+<img src="../img/workshop-paper.png" height="20px">
+Demosthenous, G. and Vassiliades, V. (2021). Continual Learning on the Edge with TensorFlow Lite. Findings of the CVPR 2021 Workshop on Continual Learning in Computer Vision. [[Link]](https://arxiv.org/abs/2105.01946)
+
+
+## 2020
+
+<img src="../img/journal-article.png" height="20px">
+Kondo, D., Vassiliades, V., Silverston, T., Tode, H., and Asami, T. (2020). The named data networking flow filter: Towards improved security over information leakage attacks. Computer Networks, 173: 107187. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619316524)
+
+<img src="../img/conference-paper.png" height="20px">
+Ishikura, N., Kondo, D., Iordanov, I., Vassiliades, V. and Tode, H. (2020). Cache-Property-Aware Features for DNS Tunneling Detection. In 23rd Conference on Innovation in Clouds, Internet and Networks (ICIN 2020). [[Link]](https://ieeexplore.ieee.org/document/9059472)
+
+
 ## 2019
 
 <img src="../img/journal-article.png" height="20px">
-Chatzilygeroudis, K., Vassiliades, V., Stulp, F., Calinon, S., and Mouret, J.-B. (2018). A survey on policy search algorithms for learning robot controllers in a handful of trials. IEEE Transactions on Robotics (provisionally accepted). [[Preprint]](https://arxiv.org/abs/1807.02303).
+Chatzilygeroudis, K., Vassiliades, V., Stulp, F., Calinon, S., and Mouret, J.-B. (2018). A survey on policy search algorithms for learning robot controllers in a handful of trials. IEEE Transactions on Robotics, 36(2): 328-347. [[Link (open access)]](https://ieeexplore.ieee.org/document/8944013) [[Preprint]](https://arxiv.org/abs/1807.02303).
 
 ## 2018
 
