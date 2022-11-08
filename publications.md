@@ -8,6 +8,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2022
 
+<img src="../img/journal-article.png" height="20px">
 Demosthenous, G., Kyriakou, M., and Vassiliades, V. (2022). Deep Reinforcement Learning for Improving Competitive Cycling Performance. Expert Systems with Applications, 117311. [[Link]](https://www.sciencedirect.com/science/article/pii/S095741742200673X)
 
 ## 2021
