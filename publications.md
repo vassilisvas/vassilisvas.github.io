@@ -5,11 +5,31 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=_Hzp2B0AAAAJ&hl=en), [DBLP](https://dblp.org/pers/hd/v/Vassiliades:Vassilis) and [ResearchGate](https://www.researchgate.net/profile/Vassilis_Vassiliades).
 
+---
+
+## 2023
+
+<img src="../img/journal-article.png" height="20px">
+Charalambous, P., Pettre, J., Vassiliades, V., Chrysanthou, Y., and Pelechano, N. (2023). GREIL-Crowds: Crowd Simulation with Deep Reinforcement Learning and Examples. ACM Transactions on Graphics, 42(4): 1-15. [[Link]](https://dl.acm.org/doi/abs/10.1145/3592459)
+
+<img src="../img/conference-paper.png" height="20px">
+Minelli, G., and Vassiliades, V. (2023). Towards Continual Reinforcement Learning for Quadruped Robots. In Proceedings of the International Conference on Interactive Media, Smart Systems and Emerging Technologies (IMET), 61-64. [[Link]](https://diglib.eg.org/handle/10.2312/imet20231258)
+
+<img src="../img/conference-paper.png" height="20px">
+Christou, K., Christodoulou, C., and Vassiliades, V. (2023). Quality Diversity optimization using the IsoLineDD operator: forward and backward directions are equally important. In Proceedings of the Genetic and Evolutionary Computation Conference Companion, 639-642. [[Link]](https://dl.acm.org/doi/abs/10.1145/3583133.3590737)
+
+<img src="../img/conference-paper.png" height="20px">
+Dionysiou, A., Vassiliades, V. and Athanasopoulos, E. (2023). Exploring Model Inversion Attacks in
+the Black-box Setting. In Proceedings on Privacy Enhancing Technologies Symposium, 1, 190–206. [[Link]](https://petsymposium.org/popets/2023/popets-2023-0012.php)
+
+---
 
 ## 2022
 
 <img src="../img/journal-article.png" height="20px">
 Demosthenous, G., Kyriakou, M., and Vassiliades, V. (2022). Deep Reinforcement Learning for Improving Competitive Cycling Performance. Expert Systems with Applications, 117311. [[Link]](https://www.sciencedirect.com/science/article/pii/S095741742200673X)
+
+---
 
 ## 2021
 
@@ -25,6 +45,7 @@ Chatzilygeroudis, K., Cully, A., Vassiliades, V., and Mouret, J.-B. (2021). Qual
 <img src="../img/workshop-paper.png" height="20px">
 Demosthenous, G. and Vassiliades, V. (2021). Continual Learning on the Edge with TensorFlow Lite. Findings of the CVPR 2021 Workshop on Continual Learning in Computer Vision. [[Link]](https://arxiv.org/abs/2105.01946)
 
+---
 
 ## 2020
 
@@ -34,11 +55,14 @@ Kondo, D., Vassiliades, V., Silverston, T., Tode, H., and Asami, T. (2020). The 
 <img src="../img/conference-paper.png" height="20px">
 Ishikura, N., Kondo, D., Iordanov, I., Vassiliades, V. and Tode, H. (2020). Cache-Property-Aware Features for DNS Tunneling Detection. In 23rd Conference on Innovation in Clouds, Internet and Networks (ICIN 2020). [[Link]](https://ieeexplore.ieee.org/document/9059472)
 
+---
 
 ## 2019
 
 <img src="../img/journal-article.png" height="20px">
 Chatzilygeroudis, K., Vassiliades, V., Stulp, F., Calinon, S., and Mouret, J.-B. (2019). A survey on policy search algorithms for learning robot controllers in a handful of trials. IEEE Transactions on Robotics, 36(2): 328-347. [[Link (open access)]](https://ieeexplore.ieee.org/document/8944013) [[Preprint]](https://arxiv.org/abs/1807.02303).
+
+---
 
 ## 2018
 
@@ -54,8 +78,7 @@ Chatzilygeroudis, K., Vassiliades, V. and Mouret, J.-B. (2018). Reset-free Trial
 Vassiliades, V. and Mouret, J.-B. (2018). Discovering the Elite Hypervolume by Leveraging Interspecies Correlation. In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), pp. 149–156. ACM. [[Link]](https://dl.acm.org/citation.cfm?id=3205602), [[Preprint]](https://arxiv.org/abs/1804.03906).
 
 
-
-
+---
 
 ## 2017
 <img src="../img/conference-paper.png" height="20px">
@@ -73,6 +96,8 @@ Vassiliades, V., Chatzilygeroudis, K. and Mouret, J.-B. (2017). A comparison of 
 algorithms in unbounded spaces. In Proceedings of the Genetic and Evolutionary Computation
 Conference Companion, pp. 1578-1581. ACM. [[Preprint]](https://hal.inria.fr/hal-01518814).
 
+---
+
 ## 2016
 <img src="../img/journal-article.png" height="20px">
 Vassiliades, V. and Christodoulou, C. (2016). Behavioral Plasticity Through the Modulation of Switch Neurons. Neural Networks, 74: 35-51. [[Preprint]](/publications/2016_vassiliades_nn.pdf).
@@ -88,13 +113,19 @@ Training Bidirectional Recurrent Neural Network Architectures with the Scaled Co
 Algorithm. Artificial Neural Networks - ICANN 2016, Lecture Notes in Computer Science, ed. by
 A.E.P. Villa, P. Masulli and A.J.P. Rivero, Springer, 9886: 123-131. [[Preprint]](/publications/2016_agathocleous.pdf).
 
+---
+
 ## 2015
 
 Vassiliades, V. (2015). Studies in Reinforcement Learning and Adaptive Neural Networks. PhD Thesis. Department of Computer Science, University of Cyprus. [[Pdf]](/publications/2015_vassiliades_phd_thesis.pdf).
 
+---
+
 ## 2013
 <img src="../img/journal-article.png" height="20px">
 Vassiliades, V. and Christodoulou, C. (2013). Toward Nonlinear Local Reinforcement Learning Rules Through Neuroevolution. Neural Computation, 25(11): 3020-3043. [[Preprint]](/publications/2013_vassiliades_nc.pdf).
+
+---
 
 ## 2012
 <img src="../img/journal-article.png" height="20px">
@@ -109,6 +140,8 @@ Springer, 7188: 261-272. [[Preprint]](/publications/2012_lambrou_ewrl.pdf).
 Vassiliades, V., Christodoulou, C., Cleanthous, A. and Lambrou, I. (2012). Explorations in
 Reinforcement Learning. Research Work of Postgraduate Students, Faculty of Pure and Applied
 Sciences, University of Cyprus, Nicosia, Cyprus, November 2012, Abstract for Poster P-28.
+
+---
 
 ## 2011
 <img src="../img/journal-article.png" height="20px">
@@ -134,6 +167,8 @@ and Christodoulou, C. (2011). A comparative study on filtering protein secondary
 Proceedings of the 4th Cyprus Workshop on Signal Processing and Informatics, Nicosia, Cyprus, July
 2011, p.13.
 
+---
+
 ## 2010
 <img src="../img/conference-paper.png" height="20px">
 Vassiliades, V. and Christodoulou, C. (2010). Multiagent Reinforcement Learning in the Iterated
@@ -156,7 +191,10 @@ Nets: can weight updating for each residue enhance performance? AIAI 2010, ed. b
 A. S. Andreou and M. Bramer, IFIP International Federation for Information Processing AICT, 339:
 128-137. [[Link]](https://link.springer.com/content/pdf/10.1007/978-3-642-16239-8_19.pdf).
 
+---
+
 ## 2009
+
 <img src="../img/conference-paper.png" height="20px">
 Vassiliades, V., Cleanthous, A. and Christodoulou, C. (2009). Multiagent Reinforcement Learning
 with Spiking and Non Spiking Agents in the Iterated Prisoner's Dilemma. Artificial Neural Networks -

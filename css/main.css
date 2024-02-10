@@ -3,8 +3,8 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
+  font-family: 'Montserrat', 'Lora', 'Times New Roman', serif;
+  font-size: 16px;
   color: #404040;
   position: relative;
   background: #FFF;
@@ -18,15 +18,18 @@ p a {
   color: #008AFF;
 }
 h1,h2 {
-  font-family: 'Existence-StencilLight', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /* font-family: 'Existence-StencilLight', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
-  color: rgb(180, 108, 0);
+  /* color: rgb(180, 108, 0); */
+  color: #003470;
 }
 
 h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
-  color: rgb(180, 108, 0);
+  /* color: rgb(180, 108, 0); */
+  color: #003470;
 }
 
 a {
@@ -58,7 +61,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -98,10 +101,10 @@ img::-moz-selection {
 /* --- Navbar --- */
 
 .navbar-custom {
-  /* background: #F5F5F5; */
-  background: rgb(255, 196, 107);
+  background: #f3f9ff;
+  /* background: rgb(255, 225, 180); */
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -191,8 +194,8 @@ img::-moz-selection {
 
 footer {
   padding: 30px 0;
-  /* background: #F5F5F5; */
-  background: rgb(255, 196, 107);
+  background: #f3f9ff;
+  /* background: rgb(255, 225, 180); */
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
@@ -207,7 +210,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: Open Sans;
+  font-family: 'Montserrat', 'Open Sans';
   text-align: center;
   margin-bottom: 0;
 }
@@ -218,7 +221,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 20px 0;
   }
   footer .footer-links {
     font-size: 18px;
@@ -274,7 +277,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -311,7 +314,7 @@ header.header-page .page-heading .page-subheading {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -346,7 +349,7 @@ header.header-post .post-heading .post-subheading {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -418,9 +421,14 @@ header.header-post .post-heading .post-subheading {
   margin-bottom: 0;
 }
 
-@font-face {
+/* @font-face {
   font-family: 'Existence-StencilLight';
   src: url('../fonts/Existence-StencilLight.otf') format('opentype');
+} */
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Regular.ttf') format('opentype');
 }
 
 .canvas-container {

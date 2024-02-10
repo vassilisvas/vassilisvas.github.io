@@ -29,7 +29,7 @@ avatar: "/img/vassilis_vassiliades.png"
 navbar-links:
   About: ""
   Publications: "publications"
-  CV: "VassilisVassiliades_CV.pdf"
+  # CV: "VassilisVassiliades_CV.pdf"
   # Contact: "contact"
 
 # --- Footer options --- #
@@ -38,7 +38,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Vassilis Vassiliades
-  email: "vassilisvas@gmail.com"
+  email: "v.vassiliades@cyens.org.cy"
   facebook: vvassiliades
   github: vassilisvas
   twitter: v_vassiliades
@@ -49,8 +49,8 @@ author:
 footer-links-active:
   rss: false
   email: true
-  facebook: true
-  github: true
+  facebook: false
+  github: false
   twitter: true
   linkedin: true
 
